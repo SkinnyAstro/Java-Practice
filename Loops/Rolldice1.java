@@ -10,7 +10,7 @@ public class Rolldice1 {
             diceroll=rolldice();
             System.out.println("Dice rolled: " + diceroll);
         }
-        System.out.println("You rolled 6");
+        System.out.println("You have  rolled 6");
 
 
     }
