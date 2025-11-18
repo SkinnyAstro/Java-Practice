@@ -8,7 +8,6 @@ public class Arrays {
         marks[1]= 67;
         marks[2]= 89;
         //marks[4]=56;
-
         for (int i=0;i<3;i++){
             System.out.println(marks[i]);
         }
