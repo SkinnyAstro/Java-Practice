@@ -11,9 +11,10 @@ public class LargestNumber {
             if (numbers[i]>largest){
                 largest = numbers[i];
             }
+            System.out.println("Largrst number in the array is " + largest);
         }
 
-        System.out.println("Largrst number in the array is " + largest);
+
 
     }
 }
